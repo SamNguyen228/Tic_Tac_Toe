@@ -18,8 +18,8 @@ You can try the game by visiting the live demo here <a href="https://tic-tac-toe
 Step 1: Clone the Repository
 Start by cloning the repository to your local machine:
 
-git clone https://github.com/SamNguyen228/Tic_Tac_Toe.git
-cd Tic_Tac_Toe
+<code>git clone https://github.com/SamNguyen228/Tic_Tac_Toe.git</code> <br>
+<code>cd Tic_Tac_Toe</code>
 
 Step 2: Install Dependencies
 Use npm (or yarn) to install the necessary project dependencies:
