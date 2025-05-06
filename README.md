@@ -1,41 +1,50 @@
-# React + Vite
+Caro Game (Tic Tac Toe) — React + Vite
+A simple yet engaging Caro (Tic Tac Toe) game built with React and Vite, featuring hot module replacement (HMR) and optimized ESLint configurations.
+Try out the live version: 🎮 Play the Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+⚛️ Built with React and Vite for fast development
 
-Currently, two official plugins are available:
+🔄 Hot Module Replacement (HMR) for instant feedback
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧠 ESLint pre-configured for clean code
 
-## Expanding the ESLint configuration
+💨 Optionally switch between Babel or SWC via Vite plugins
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧱 Easy to build and deploy
 
-## Demo
-You can try the game by visiting the live demo here <a href="">Caro Game</a>.
+🛠️ Installation & Development
+Follow these steps to run the project locally:
 
-## Installation
-Step 1: Clone the Repository
-Start by cloning the repository to your local machine:
-
+1. Clone the Repository
+bash
+Copy
+Edit
 git clone https://github.com/SamNguyen228/Tic_Tac_Toe.git
 cd Tic_Tac_Toe
+2. Install Dependencies
+Using npm:
 
-Step 2: Install Dependencies
-Use npm (or yarn) to install the necessary project dependencies:
-
+bash
+Copy
+Edit
 npm install
+Or with yarn:
 
-Step 3: Run the Development Server
-Once the dependencies are installed, start the development server:
-
+bash
+Copy
+Edit
+yarn install
+3. Start the Development Server
+bash
+Copy
+Edit
 npm run dev
+Visit the local server at: http://localhost:5173
 
-This will launch the development server, and you can access the game at: http://localhost:5173
-
-Step 4: Build the Project for Production
-To create a production-ready build of the project, run:
-
+4. Build for Production
+bash
+Copy
+Edit
 npm run build
-
-The production build will be placed in the dist folder. You can then deploy this folder to your preferred hosting service.
+The optimized production build will be available in the dist/ folder. You can deploy this folder to any static hosting service.
