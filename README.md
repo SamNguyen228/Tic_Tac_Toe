@@ -1,8 +1,11 @@
-## Features
-⚛️ Built with React and Vite for fast development
-🔄 Hot Module Replacement (HMR) for instant feedback
-💨 Optionally switch between Babel or SWC via Vite plugins
-🧱 Easy to build and deploy
+## Tech Stack
+React
+
+Vite
+
+ESLint
+
+Optional: Babel or SWC for fast refresh
 
 ## Demo
 You can try the game by visiting the live demo here <a href="https://tic-tac-toe-tan-eight.vercel.app/">Caro Game</a>.
