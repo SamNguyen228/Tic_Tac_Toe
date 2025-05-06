@@ -24,22 +24,34 @@ Start by cloning the repository to your local machine:
 <code>cd Tic_Tac_Toe</code>
 
 ---
-Step 2: Install Dependencies
+
+<b>Step 2:</b> Install Dependencies
 Use npm (or yarn) to install the necessary project dependencies:
 
-npm install
+---
 
-Step 3: Run the Development Server
+<code>npm install</code>
+
+---
+
+<b>Step 3:</b> Run the Development Server
 Once the dependencies are installed, start the development server:
 
-npm run dev
+---
+
+<code>npm run dev</code>
 
 This will launch the development server, and you can access the game at: http://localhost:5173
 
-Step 4: Build the Project for Production
+---
+
+<b>Step 4:</b> Build the Project for Production
 To create a production-ready build of the project, run:
 
-npm run build
+---
+
+<code>npm run build</code>
+
+---
 
 The production build will be placed in the dist folder. You can then deploy this folder to your preferred hosting service.
-viết lại cho chuyên nghiệp readme gituhb
