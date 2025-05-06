@@ -1,0 +1,57 @@
+h1 {
+  margin-top: 20px;
+  color: #f51b1b;
+}
+
+h2 {
+  color: #db2a2a;
+}
+
+.board {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.board-row {
+  display: flex;
+}
+
+.reset-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #888;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.reset-button:hover {
+  background-color: #ada7ff;
+}
+
+.square {
+  width: 25px;
+  height: 25px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  padding: 0;
+  cursor: pointer;
+  outline: none;
+}
+
+.square.highlight {
+  background-color: #f2f491;
+}
+
+.square.X {
+  color: red;
+  font-weight: bold;
+}
+
+.square.O {
+  color: blue;
+  font-weight: bold;
+}
