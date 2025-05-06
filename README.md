@@ -1,11 +1,10 @@
 ## Tech Stack
-React
-
-Vite
-
-ESLint
-
-Optional: Babel or SWC for fast refresh
+<ul>
+  <li>React</li>
+  <li>Vite</li>
+  <li>ESLint</li>
+  <li>Optional: Babel or SWC for fast refresh</li>
+</ul>
 
 ## Demo
 You can try the game by visiting the live demo here <a href="https://tic-tac-toe-tan-eight.vercel.app/">Caro Game</a>.
