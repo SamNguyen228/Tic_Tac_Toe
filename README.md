@@ -1,15 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [typescript-eslint](https://typescript-eslint.io) in your project.
+## Features
+⚛️ Built with React and Vite for fast development
+🔄 Hot Module Replacement (HMR) for instant feedback
+💨 Optionally switch between Babel or SWC via Vite plugins
+🧱 Easy to build and deploy
 
 ## Demo
 You can try the game by visiting the live demo here <a href="https://tic-tac-toe-tan-eight.vercel.app/">Caro Game</a>.
