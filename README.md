@@ -41,6 +41,8 @@ Once the dependencies are installed, start the development server:
 
 <code>npm run dev</code>
 
+---
+
 This will launch the development server, and you can access the game at: http://localhost:5173
 
 ---
