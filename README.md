@@ -15,12 +15,12 @@ If you are developing a production application, we recommend using TypeScript wi
 You can try the game by visiting the live demo here <a href="https://tic-tac-toe-tan-eight.vercel.app/">Caro Game</a>.
 
 ## Installation
-Step 1: Clone the Repository
+<b>Step 1:</b> Clone the Repository
 Start by cloning the repository to your local machine:
-
+---
 <code>git clone https://github.com/SamNguyen228/Tic_Tac_Toe.git</code> <br>
 <code>cd Tic_Tac_Toe</code>
-
+---
 Step 2: Install Dependencies
 Use npm (or yarn) to install the necessary project dependencies:
 
